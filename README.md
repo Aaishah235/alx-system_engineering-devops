@@ -1,1 +1,1 @@
-This is a shell repository
+Shell Basic Readme
