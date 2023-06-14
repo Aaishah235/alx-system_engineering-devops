@@ -1,1 +1,1 @@
-Shell Basic Readme
+Shell Init, Variables and Expansions
